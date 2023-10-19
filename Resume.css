@@ -1,0 +1,43 @@
+#resume:hover{
+    color: yellow;
+    letter-spacing: 20px;
+    text-shadow: 3px 3px 5px red;
+    font-size: 50px;
+    text-transform: uppercase;
+
+}
+h1{
+    text-align: center;
+}
+table,th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+img{
+    height: 100px;
+    
+}
+.skill:hover{
+    color: blue;
+    text-shadow: 3px 3px  6px rgb(227, 61, 89);
+    font-size: 30px;
+    background-color: antiquewhite;
+    
+}
+.class:hover{
+    font-size: 25px;
+    color: aqua;
+    text-shadow: 4px 4px 8px brown;
+
+}
+table:hover{
+    background-color: cyan;
+    font-size: 30px;
+    color: rgb(73, 20, 220);
+}
+.th:hover{
+    color:yellow
+}
+body{
+    background-color: aquamarine;
+}
